@@ -5,6 +5,10 @@
 		<div id="container">
 			box
 		</div>
+
+		<div>
+			test
+		</div>
 	</div>
 	
 </template>
